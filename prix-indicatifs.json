@@ -1,0 +1,197 @@
+{
+  "devise": "CDF",
+  "affichage": "FC",
+  "statut": "Fourchettes fournies par le propriétaire pour la maquette. Non vérifiées comme prix actuels de marché et non confirmées comme tarifs de la ferme.",
+  "produits": {
+    "eggs": {
+      "min": 13000,
+      "max": 15000,
+      "unite": "plateau de 30 œufs"
+    },
+    "pork": {
+      "min": 18000,
+      "max": 20000,
+      "unite": "kg"
+    },
+    "beef": {
+      "min": 20000,
+      "max": 25000,
+      "unite": "kg"
+    },
+    "fish": {
+      "min": 12000,
+      "max": 15000,
+      "unite": "kg"
+    },
+    "melon": {
+      "min": 5000,
+      "max": 10000,
+      "unite": "pièce",
+      "note": "Selon la taille."
+    },
+    "papaya": {
+      "min": 3000,
+      "max": 5000,
+      "unite": "pièce"
+    },
+    "mango": {
+      "min": 1000,
+      "max": 2000,
+      "unite": "pièce",
+      "note": "Base en pleine saison. Hors saison : dès 2 500 FC par pièce ; estimation à revoir."
+    },
+    "pineapple": {
+      "min": 3000,
+      "max": 5000,
+      "unite": "pièce"
+    },
+    "lemon": {
+      "min": 500,
+      "max": 1000,
+      "unite": "portion",
+      "note": "Lot ou grosse pièce : format à préciser avec la ferme."
+    },
+    "grapefruit": {
+      "min": 1500,
+      "max": 2500,
+      "unite": "pièce"
+    },
+    "greens": {
+      "min": 1500,
+      "max": 3000,
+      "unite": "botte"
+    },
+    "mfumbwa": {
+      "min": 2000,
+      "max": 4000,
+      "unite": "botte"
+    },
+    "matembele": {
+      "min": 2000,
+      "max": 4000,
+      "unite": "botte",
+      "note": "Nouvelle fourchette fournie. Provenance Kimwenza à confirmer : non garantie par le site."
+    },
+    "pondu": {
+      "min": 3000,
+      "max": 6000,
+      "unite": "botte"
+    },
+    "ngai": {
+      "min": 1500,
+      "max": 3000,
+      "unite": "botte"
+    },
+    "chili": {
+      "min": 1000,
+      "max": 2000,
+      "unite": "petit tas"
+    },
+    "okra": {
+      "min": 7000,
+      "max": 9000,
+      "unite": "kg"
+    },
+    "eggplant": {
+      "min": 5000,
+      "max": 7000,
+      "unite": "kg"
+    },
+    "tomato": {
+      "min": 6000,
+      "max": 8500,
+      "unite": "kg"
+    },
+    "chinchard": {
+      "min": 8000,
+      "max": 11000,
+      "unite": "kg",
+      "note": "Espèce et état de conservation à confirmer."
+    },
+    "capitaine": {
+      "min": 25000,
+      "max": 35000,
+      "unite": "kg"
+    },
+    "saltfish": {
+      "min": 18000,
+      "max": 22000,
+      "unite": "kg"
+    },
+    "smoked": {
+      "min": 5000,
+      "max": 15000,
+      "unite": "portion",
+      "note": "Prix selon la taille. Kossa, ngolo et mbeka : appellations à valider, pas des synonymes garantis."
+    },
+    "ndakala": {
+      "min": 5000,
+      "max": 10000,
+      "unite": "mesure",
+      "note": "Petit bassin ou mesure : volume à confirmer. Cosson : nom à valider."
+    },
+    "potato": {
+      "min": 6000,
+      "max": 8000,
+      "unite": "kg"
+    },
+    "sweetpotato": {
+      "min": 3000,
+      "max": 5000,
+      "unite": "kg",
+      "note": "Calcul pour 1 kg. Vente au tas possible uniquement après confirmation du format."
+    },
+    "cassava": {
+      "min": 2000,
+      "max": 4000,
+      "unite": "kg",
+      "note": "Calcul pour 1 kg. Petit tas : poids et prix à confirmer."
+    },
+    "taro": {
+      "min": 5000,
+      "max": 7000,
+      "unite": "kg",
+      "note": "Taro et makabo sont distincts : précisez le produit souhaité dans votre message."
+    },
+    "plantain": {
+      "min": 15000,
+      "max": 30000,
+      "unite": "régime",
+      "note": "Taille du régime à confirmer."
+    },
+    "plantain-main": {
+      "min": 2000,
+      "max": 5000,
+      "unite": "main",
+      "note": "Nombre de bananes dans la petite main à confirmer."
+    },
+    "cabbage": {
+      "min": 3000,
+      "max": 6000,
+      "unite": "pièce",
+      "note": "Prix selon la taille."
+    },
+    "carrot": {
+      "min": 5000,
+      "max": 7500,
+      "unite": "kg"
+    },
+    "bellpepper": {
+      "min": 3000,
+      "max": 6000,
+      "unite": "kg",
+      "note": "Calcul pour 1 kg. Petit tas : format à confirmer."
+    },
+    "onion": {
+      "min": 5000,
+      "max": 7000,
+      "unite": "kg"
+    },
+    "garlic": {
+      "min": 8000,
+      "max": 12000,
+      "unite": "kg",
+      "note": "Calcul pour 1 kg. Mesure : poids et prix à confirmer."
+    }
+  }
+}
